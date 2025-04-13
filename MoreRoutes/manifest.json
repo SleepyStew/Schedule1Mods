@@ -1,0 +1,7 @@
+{
+    "name": "MoreRoutes",
+    "description": "Triples the number of Routes your Handlers can handle!",
+    "version_number": "1.0.0",
+    "dependencies": ["LavaGang-MelonLoader-0.7.0"],
+    "website_url": ""
+}

@@ -1,0 +1,7 @@
+{
+    "name": "ClickTP",
+    "description": "ClickTP is a Quality of Life Mod that teleports you in the direction you are looking upon pressing a button. This mod is made for creators, developers, and those who don't care for walking the streets ;)",
+    "version_number": "1.0.1",
+    "dependencies": ["LavaGang-MelonLoader-0.7.0"],
+    "website_url": ""
+}

@@ -1,0 +1,7 @@
+{
+    "name": "BigStackz",
+    "description": "(Safe Alternative) Customize the stack limit of all items!",
+    "version_number": "1.0.3",
+    "dependencies": ["LavaGang-MelonLoader-0.7.0"],
+    "website_url": ""
+}

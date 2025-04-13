@@ -1,0 +1,7 @@
+{
+    "name": "EasyRemove",
+    "description": "EasyRemove is a quality of life mod that allows you to easily remove pot with seeds in them, shelves with items, and any other build-able item, simply hold shift!",
+    "version_number": "1.0.0",
+    "dependencies": ["LavaGang-MelonLoader-0.7.0"],
+    "website_url": ""
+}
